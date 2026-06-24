@@ -1,4 +1,4 @@
-public class Demo_6{
+public class Demo_06{
     public static void main(String[] args) {
         // Loops
         //1. while loop

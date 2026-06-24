@@ -1,4 +1,4 @@
-public class Demo_7{
+public class Demo_07{
     public static void main(String[]args){
 
         // nested loops.

@@ -1,4 +1,4 @@
-public class Demo_8 {
+public class Demo_08 {
     public static void main(String[] args) {
         //1. 1 se 10 tak numbers print karo.
         for(int i = 1; i <= 10; i++){

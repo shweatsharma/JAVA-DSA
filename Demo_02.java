@@ -1,4 +1,4 @@
-public class Demo_2 {
+public class Demo_02 {
     public static void main(String[] args) {
 
         // implicit conversion .

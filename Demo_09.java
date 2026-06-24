@@ -1,4 +1,4 @@
-public class Demo_9 {
+public class Demo_09 {
     public static void main(String[] args) {
         // Arrays.
       /*   int[] rollnum = new int[5];

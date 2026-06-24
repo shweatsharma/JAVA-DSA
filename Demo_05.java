@@ -1,4 +1,4 @@
-public class Demo_5 {
+public class Demo_05 {
     public static void main(String[]args){
         //1.number positive , negative ya zero check karo.
        /*  int i = -5;

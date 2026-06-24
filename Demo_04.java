@@ -1,4 +1,4 @@
-public class Demo_4 {
+public class Demo_04 {
     public static void main(String[]args){
 
         // Switch Statment.
